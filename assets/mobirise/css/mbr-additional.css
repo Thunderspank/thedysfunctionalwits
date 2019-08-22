@@ -1318,12 +1318,12 @@ html,body{
 @logoSize: 3.8;
 @showBrand: true;
 @showItems: true;
-@itemsHoverColor: #c1c1c1;
-@showButtons: true;
+@itemsHoverColor: #ff3366;
+@showButtons: false;
 @sticky: true;
-@collapsed: false;
-@transparent: false;
-@hamburgerColor: #ffffff;
+@collapsed: true;
+@transparent: true;
+@hamburgerColor: #149dcc;
 @menuBgColor: #333333;
 
 .navbar {
