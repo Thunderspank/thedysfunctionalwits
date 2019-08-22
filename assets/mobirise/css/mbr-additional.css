@@ -1324,34 +1324,164 @@ background-color: @bgColor;
 }
 }
 
-.cid-rzODZHKPpD {
-@fullScreen: true;
-@paddingTop: 6;
-@paddingBottom: 6;
-@showArrow: true;
+.cid-rzR1LGv8UQ {
+@fullScreen: false;
+@paddingTop: 5;
+@paddingBottom: 5;
 @showTitle: true;
-@showSubTitle: false;
 @showText: true;
+@showVideoPopUp: true;
+@showDescription: true;
 @showButtons: true;
-@uname__12: "file:///C:/Users/thor/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-08-21_041129/assets/images/100wsolarpanel-960x720.jpg";
-@uname__13: true;
-@uname__14: #073b4c;
-@bg-value: "file:///C:/Users/thor/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-08-21_041129/assets/images/100wsolarpanel-960x720.jpg";
+@uname__14: "../../app/themes/mobirise4/components/header8/../_images/background4.jpg";
+@uname__15: true;
+@uname__16: #7f1933;
+@bg-value: "../../app/themes/mobirise4/components/header8/../_images/background4.jpg";
 @bg-type: "image";
-@bg-color-value: #073b4c;
+@bg-color-value: #7f1933;
 @bg-parallax: true;
-@overlay: false;
-@overlayColor: #767676;
-@overlayOpacity: 0.5;
+@overlay: true;
+@overlayColor: #ff3366;
+@overlayOpacity: 0.4;
 
 & when not (@fullScreen) {
   padding-top: (@paddingTop * 15px);
   padding-bottom: (@paddingBottom * 15px);
 }
+& when (@bg-type = 'color') {
+  background-color: @bg-value;
+}
 & when (@bg-type = 'image') {
   background-image: url(../../../@bg-value);
 }
+.mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+  &.mbri-play:before {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-35%);
+    -moz-transform: translateX(-35%);
+    -ms-transform: translateX(-35%);
+    -o-transform: translateX(-35%);
+    transform: translateX(-35%);
+  }
+}
+.modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+  .modalWindow-container {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .modalWindow-video {
+    height: calc(80vw / 1.778);
+    width: 80vw;
+    margin: 0 auto;
+  }
+}
+a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+  &:hover {
+    color: #ffffff;
+  }
+}
+}
+
+.cid-rzR2mWj9fT {
+@paddingTop: 6;
+@paddingBottom: 6;
+@showTitle: true;
+@showText: true;
+@showButtons: true;
+@cardBg: true;
+@cardColor: #149dcc;
+@translucency: true;
+@cardsAmount: "3";
+@uname__12: "../../app/themes/mobirise4/components/features8/../_images/background4.jpg";
+@uname__13: true;
+@uname__14: #efefef;
+@bg-value: "../../app/themes/mobirise4/components/features8/../_images/background4.jpg";
+@bg-type: "image";
+@bg-color-value: #efefef;
+@bg-parallax: true;
+@overlay: true;
+@overlayColor: #232323;
+@overlayOpacity: 0.2;
+
+padding-top: (@paddingTop * 15px);
+padding-bottom: (@paddingBottom * 15px);
 & when (@bg-type = 'color') {
   background-color: @bg-value;
+}
+& when (@bg-type = 'image') {
+  background-image: url(../../../@bg-value);
+}
+h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+p {
+  color: #ffffff;
+}
+.card {
+  margin-bottom: 2rem;
+}
+.card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  & when (@cardBg) {
+    background-color: @cardColor;
+  }
+  span {
+    font-size: 100px;
+    color: #ffffff;
+  }
+}
+.card-box {
+  padding-bottom: 2rem;
+  .card-title {
+    margin: 0;
+    padding: 2rem 2rem 0 2rem;
+  }
+  .mbr-text {
+    margin-bottom: 0;
+    padding: 2rem 2rem 0 2rem;
+  }
+  .mbr-section-btn {
+    padding-top: 1rem;
+    a {
+      margin-top: 1rem;
+      margin-bottom: 0;
+    }
+  }
+  & when (@cardBg) {
+    background-color: @cardColor;
+    & when (@translucency) {
+      background: linear-gradient(@cardColor, transparent);
+    }
+  }
 }
 }
