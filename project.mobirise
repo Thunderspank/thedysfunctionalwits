@@ -49,6 +49,27 @@
       },
       "components": [
         {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "<iframe scrolling=\"no\" frameborder=\"no\" clocktype=\"html5\" style=\"overflow:hidden;border:0;margin:0;padding:0;width:240px;height:80px;\"src=\"https://www.clocklink.com/html5embed.php?clock=043&timezone=USA_Denver&color=orange&size=240&Title=&Message=&Target=&From=2019,1,1,0,0,0&Color=orange\"></iframe>",
+          "_cid": "rzQYFYZJc7",
+          "_anchor": "custom-html-9",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
           "alias": false,
           "_styles": {
             ".navbar": {
@@ -470,6 +491,27 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
+          "_params": {}
+        },
+        {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "<iframe scrolling=\"no\" frameborder=\"no\" clocktype=\"html5\" style=\"overflow:hidden;border:0;margin:0;padding:0;width:240px;height:80px;\"src=\"https://www.clocklink.com/html5embed.php?clock=043&timezone=USA_Denver&color=orange&size=240&Title=&Message=&Target=&From=2019,1,1,0,0,0&Color=orange\"></iframe>",
+          "_cid": "rzQZw9Q7F9",
+          "_anchor": "custom-html-9",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
