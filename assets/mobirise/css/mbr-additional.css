@@ -1652,6 +1652,10 @@ body {
 .cid-rzRh7m7EKP .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rzRh7m7EKP .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rzRh7m7EKP .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rzRh7m7EKP .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rzRh7m7EKP .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1752,6 +1756,10 @@ body {
   .cid-rzRh7m7EKP .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rzRh7m7EKP .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rzRh7m7EKP .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rzRh7m7EKP .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rzRh7m7EKP .navbar-collapse.collapsing .navbar-buttons,
   .cid-rzRh7m7EKP .navbar-collapse.show .navbar-buttons {
@@ -2051,6 +2059,10 @@ body {
 .cid-rzRh7m7EKP .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rzRh7m7EKP .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rzRh7m7EKP .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rzRh7m7EKP .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rzRh7m7EKP .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2152,6 +2164,10 @@ body {
   .cid-rzRh7m7EKP .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-rzRh7m7EKP .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rzRh7m7EKP .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-rzRh7m7EKP .navbar-collapse.collapsing .navbar-buttons,
   .cid-rzRh7m7EKP .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2214,4 +2230,18 @@ body {
 .cid-rzRh7m7EKP .nav-link:hover,
 .cid-rzRh7m7EKP .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rzXBVJ7Eqv {
+  background: #149dcc;
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #7f1933);
+}
+.cid-rzXBVJ7Eqv .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rzXBVJ7Eqv .video-block {
+    width: 100% !important;
+  }
 }
