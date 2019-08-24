@@ -3177,11 +3177,6 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/arduino002-1-935x701.jpg");
 }
-.cid-rA2Rne7SJf {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-rA60odikaq {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3189,6 +3184,11 @@ body {
 }
 .cid-rA60odikaq .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-rA2Rne7SJf {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-rzRh7m7EKP .navbar {
   padding: .5rem 0;
