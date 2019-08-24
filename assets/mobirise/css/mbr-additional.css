@@ -2709,11 +2709,12 @@ body {
 }
 .cid-rzXBVJ7Eqv {
   background: #149dcc;
+  padding-top: 120px;
+  padding-bottom: 60px;
   background: linear-gradient(0deg, #149dcc, #7f1933);
 }
 .cid-rzXBVJ7Eqv .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rzXBVJ7Eqv .video-block {
