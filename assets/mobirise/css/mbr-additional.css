@@ -3185,6 +3185,9 @@ body {
 .cid-rA60odikaq .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-rA60odikaq H2 {
+  color: #55b4d4;
+}
 .cid-rA2Rne7SJf {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -4438,6 +4441,13 @@ body {
 }
 .cid-rA633Z2GIo P {
   color: #767676;
+}
+.cid-rA633Z2GIo H1 {
+  color: #55b4d4;
+}
+.cid-rA633Z2GIo .mbr-text,
+.cid-rA633Z2GIo .mbr-section-btn {
+  color: #55b4d4;
 }
 .cid-rA61s0NHgT {
   padding-top: 15px;
