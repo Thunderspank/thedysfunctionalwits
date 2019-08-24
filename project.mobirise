@@ -540,7 +540,7 @@
     },
     "electronics.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "Hobby electronic page",
         "title": "electronics",
         "order": 2
       },
@@ -1014,7 +1014,7 @@
     },
     "videos.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Band videos",
         "title": "videos",
         "order": 3
       },
