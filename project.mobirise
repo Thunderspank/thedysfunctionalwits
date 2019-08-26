@@ -27,14 +27,12 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": [
-        "#137bff"
-      ]
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 13,
+    "uniqCompNum": 9,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "",
