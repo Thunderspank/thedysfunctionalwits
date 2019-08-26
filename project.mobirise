@@ -20,7 +20,7 @@
         "display5Font": "Kalam",
         "display5Size": 1.5,
         "display7Font": "Kalam",
-        "display7Size": 1,
+        "display7Size": "1.2",
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
