@@ -21,7 +21,7 @@
         "display5Size": 1.5,
         "display7Font": "Kalam",
         "display7Size": "1.2",
-        "display4Font": "Rubik",
+        "display4Font": "Fjalla One",
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -37,6 +37,16 @@
         "css": "'Kalam', handwriting",
         "name": "Kalam",
         "url": "https://fonts.googleapis.com/css?family=Kalam:300,400,700"
+      },
+      {
+        "css": "'Anton', sans-serif",
+        "name": "Anton",
+        "url": "https://fonts.googleapis.com/css?family=Anton:400"
+      },
+      {
+        "css": "'Fjalla One', sans-serif",
+        "name": "Fjalla One",
+        "url": "https://fonts.googleapis.com/css?family=Fjalla+One:400"
       }
     ],
     "versionFirst": "4.7.6",
