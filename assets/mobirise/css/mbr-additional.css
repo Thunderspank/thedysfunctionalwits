@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Kalam:300,400,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,14 +21,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Kalam', handwriting;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Kalam', handwriting;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -41,14 +42,14 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Kalam', handwriting;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Kalam', handwriting;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -658,7 +659,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Kalam', handwriting;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;

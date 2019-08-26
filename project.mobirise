@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thunderspank's Lair",
-    "currentPage": "index.html",
+    "currentPage": "videos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,13 +13,13 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Kalam",
         "display1Size": 4.25,
-        "display2Font": "Rubik",
+        "display2Font": "Kalam",
         "display2Size": 3,
-        "display5Font": "Rubik",
+        "display5Font": "Kalam",
         "display5Size": 1.5,
-        "display7Font": "Rubik",
+        "display7Font": "Kalam",
         "display7Size": 1,
         "display4Font": "Rubik",
         "display4Size": 1,
@@ -32,7 +32,13 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Kalam', handwriting",
+        "name": "Kalam",
+        "url": "https://fonts.googleapis.com/css?family=Kalam:300,400,700"
+      }
+    ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 13,
     "versionPublish": "4.10.7",
