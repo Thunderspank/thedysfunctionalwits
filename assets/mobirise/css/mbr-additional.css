@@ -3233,15 +3233,35 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/arduino002-1-935x701.jpg");
 }
+.cid-rA2LGmmJIQ H1 {
+  color: #149dcc;
+}
+.cid-rA2LGmmJIQ H3 {
+  color: #149dcc;
+}
+.cid-rA2LGmmJIQ .mbr-text,
+.cid-rA2LGmmJIQ .mbr-section-btn {
+  color: #149dcc;
+}
 .cid-rA60odikaq {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/securitymonitor001-1000x750.jpg");
 }
+.cid-rA60odikaq .main {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-rA60odikaq .main .mbr-section-btn {
+  text-align: right;
+}
 .cid-rA60odikaq .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-rA60odikaq H2 {
+  color: #55b4d4;
+}
+.cid-rA60odikaq H3 {
   color: #55b4d4;
 }
 .cid-rAf81TDfmQ {
