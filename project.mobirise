@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thunderspank's Lair",
-    "currentPage": "RasberryPi.html",
+    "currentPage": "webstore.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3859,7 +3859,7 @@
     },
     "webstore.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "tHe DYSfUnCTIOal gEARS",
         "title": "Webstore",
         "order": 2
       },
