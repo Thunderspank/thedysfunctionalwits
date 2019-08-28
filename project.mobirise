@@ -4434,7 +4434,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "The shields going up.",
                 "active": false
               },
               {
@@ -4447,7 +4447,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "The color being immortalized<br>",
                 "active": true
               },
               {
@@ -4460,7 +4460,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "When you get the wood on.",
                 "active": false
               },
               {
@@ -4473,7 +4473,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Art incarnate",
                 "active": false
               },
               {
@@ -4486,7 +4486,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "What I play, and what says hello to you.",
                 "active": false
               }
             ]
