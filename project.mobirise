@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thunderspank's Lair",
-    "currentPage": "index.html",
+    "currentPage": "Links.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5561,7 +5561,7 @@
               }
             },
             "H2": {
-              "color": "#0f7699"
+              "color": "#149dcc"
             },
             ".b-descr": {
               "color": "#cccccc"
