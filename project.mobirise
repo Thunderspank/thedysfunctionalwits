@@ -1,17 +1,17 @@
 {
   "settings": {
     "name": "Thunderspank's Lair",
-    "currentPage": "webstore.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#f7ed4a",
-        "secondaryColor": "#ff3366",
+        "secondaryColor": "#f7ed4a",
         "successColor": "#f7ed4a",
-        "infoColor": "#82786E",
-        "warningColor": "#879A9F",
-        "dangerColor": "#B1A374",
+        "infoColor": "#f7ed4a",
+        "warningColor": "#f7ed4a",
+        "dangerColor": "#f7ed4a",
         "mainFont": "Rubik",
         "display1Font": "Kalam",
         "display1Size": 4.25,
