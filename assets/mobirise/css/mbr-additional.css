@@ -1921,7 +1921,7 @@ body {
 .cid-rAfgAZ79fU .mbr-section-title {
   color: #137bff;
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -2390,7 +2390,7 @@ body {
     width: 100% !important;
   }
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -2838,7 +2838,7 @@ body {
 .cid-rA60odikaq H3 {
   color: #55b4d4;
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -3255,7 +3255,7 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/arduinobigboard001-960x720.jpg");
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -3753,7 +3753,7 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -4174,7 +4174,7 @@ body {
   text-align: center;
   color: #fff;
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -4603,10 +4603,10 @@ body {
   text-align: center;
   color: #fff;
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #5b686b;
+  background-color: #2e2e2e;
 }
 .cid-rzRh7m7EKP .navbar {
   padding: .5rem 0;
@@ -5080,7 +5080,7 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -5515,7 +5515,7 @@ body {
 .cid-rA2cm90mWW H1 {
   color: #efefef;
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -6036,7 +6036,7 @@ body {
 .cid-rAI22tVsLE .b-descr {
   color: #cccccc;
 }
-.cid-rAIiU6DyMu {
+.cid-rC6CYImfC6 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
@@ -6447,11 +6447,6 @@ body {
 .cid-rzRh7m7EKP .nav-link:hover,
 .cid-rzRh7m7EKP .dropdown-item:hover {
   color: #c4bc3b !important;
-}
-.cid-rAIiU6DyMu {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
 .cid-rC6to8BH37 {
   padding-top: 90px;
@@ -6518,6 +6513,11 @@ body {
 .cid-rC6tUXpdZ9 .card {
   padding-bottom: 2rem;
 }
+.cid-rC6CYImfC6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-rzRh7m7EKP .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -6924,11 +6924,6 @@ body {
 .cid-rzRh7m7EKP .nav-link:hover,
 .cid-rzRh7m7EKP .dropdown-item:hover {
   color: #c4bc3b !important;
-}
-.cid-rAIiU6DyMu {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
 .cid-rC6wW8Y5EL {
   padding-top: 60px;
@@ -7054,4 +7049,9 @@ body {
   .cid-rC6xv2vFAU .image-block {
     width: 100% !important;
   }
+}
+.cid-rC6CYImfC6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
