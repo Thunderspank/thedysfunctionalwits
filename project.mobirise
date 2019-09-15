@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thunderspank's Lair",
-    "currentPage": "brusselsprouts.html",
+    "currentPage": "recipeindex.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5610,8 +5610,8 @@
     },
     "recipeindex.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "Recipeindex",
+        "meta_descr": "A collection of our favorite recipes.",
+        "title": "The Dysfunctional Recipe Index",
         "order": 3
       },
       "components": [
