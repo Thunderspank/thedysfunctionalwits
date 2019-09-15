@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thunderspank's Lair",
-    "currentPage": "recipeindex.html",
+    "currentPage": "videos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -694,7 +694,7 @@
     "videos.html": {
       "settings": {
         "meta_descr": "Band videos",
-        "title": "videos",
+        "title": "Videos",
         "order": 12
       },
       "components": [
@@ -1276,7 +1276,7 @@
     "RasberryPi.html": {
       "settings": {
         "meta_descr": "Rasberry pi stuff",
-        "title": "Rasberry Pi",
+        "title": "Rasberry Pi Projects",
         "order": 10
       },
       "components": [
@@ -1801,7 +1801,7 @@
     "Arduino.html": {
       "settings": {
         "meta_descr": "Arduino stuff",
-        "title": "Arduino",
+        "title": "Arduino Projects",
         "order": 9
       },
       "components": [
@@ -2278,7 +2278,7 @@
     "projectsecuritymonitor.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "projectsecuritymonitor",
+        "title": "SecurityMonitor",
         "order": 8
       },
       "components": [
@@ -3872,7 +3872,7 @@
     "MasterpieceGuitarBuild.html": {
       "settings": {
         "meta_descr": "This is what a stratocaster looks like  when you are a god at building a musical instrument.  ",
-        "title": "MasterpieceGuitarBuild",
+        "title": "Masterpiece Guitar Build",
         "order": 5
       },
       "components": [
@@ -4504,7 +4504,7 @@
     "hobbies.html": {
       "settings": {
         "meta_descr": "Hobby electronic page",
-        "title": "hobbies",
+        "title": "Hobbies",
         "order": 11
       },
       "components": [
