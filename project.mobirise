@@ -51,10 +51,11 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 49,
-    "versionPublish": "4.10.8",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
